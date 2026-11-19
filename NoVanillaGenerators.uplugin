@@ -1,0 +1,33 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.1",
+	"FriendlyName": "No Vanilla Generators",
+	"Description": "Removes vanilla and Industrial Evolution Lite Mk.2 coal, fuel and nuclear generators.",
+	"Category": "Modding",
+	"CreatedBy": "CS_GamingTV",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "NoVanillaGenerators",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.12.0"
+		}
+	],
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"GameVersion": ">=517554",
+	"SemVersion": "1.0.1"
+}
